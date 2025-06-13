@@ -41,7 +41,7 @@ a {
     <head>
 <div class="container-wrapper">
     <div class="container2">
-  <img src="./images/format.png" alt="background" >
+  <img src="format.png" alt="background" >
   <div style="font-size:350%; font-family:Snellroundhand" class="centered"><a style="color:black" href="./Animalia.html">Animalia</a></div>
     </div>
 </div>
